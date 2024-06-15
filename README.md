@@ -26,7 +26,7 @@ This document is intended to be a reminder of mutually agreed upon standards of 
 ---
 
 ## Zero-Tolerance Policy
-Any member found to be involved in hateful action against groups _(or individuals therein)_ for shared, immutable characteristics - _by which they're defined_ - shall be permenantly removed from the Society of Friends.<br />
+Any member found to be involved in hateful action against groups _(or individuals therein)_ for shared, immutable characteristics - _by which they're defined_ - shall be permenantly removed from the Seducing The Dragon.<br />
 
 #### _This is your ONLY warning._
 _**No exceptions.**_<br />
@@ -138,8 +138,8 @@ If you need to break scene, please motion to acknowledge you are speaking as the
 ## Player Resources
 ### Campaign Links
 - [**Roll20 Campaign Page**](https://app.roll20.net/campaigns/details/17203540)<br />
-- [**DM Session Notes _(Github)_**](https://github.com/comradedakota/sof-pabtso)<br />
-- [**SoF Discord Server**](https://discord.gg/f5ZEtjdxtU)<br />
+- [**DM Session Notes _(Github)_**](https://github.com/seducingthedragon/pabtso)<br />
+- [**StD Discord Server**](https://discord.gg/P8J8JxCUnf)<br />
 
 ### Virtual Tools and Resources
 - [**DnDBeyond**](https://dndbeyond.com/)<br />
