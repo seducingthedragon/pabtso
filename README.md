@@ -1,4 +1,4 @@
-# Seducing The Dragon: Table Guide
+# Seducing The Dragon - PaB:TSO Table Guide
 #### _For D&D 5e gamers, 18 and older._
 
 ![alt text](https://i.imgur.com/qrdwVt4.png "Valorant fighter, joyously leaping into battle against a red dragon.")
